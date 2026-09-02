@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.cursorBlinking": true,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000000",
+    "terminal.foreground": "#00FF66",
+    "terminalCursor.foreground": "#00FF66"
+  }
+}
