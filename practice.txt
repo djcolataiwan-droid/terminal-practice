@@ -1,3 +1,4 @@
 ﻿Learning Git - Version 4
 This change was made from the new computer.
 這一行是在 Mac 上新增的
+第二次從 Mac 修改
